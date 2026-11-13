@@ -1,20 +1,16 @@
-# Привіт, я MIHEY 👋
-
-Незалежний розробник софту (C / Python / Android) та моушн-дизайнер. Створюю легкі, швидкі та корисні десктопні утиліти для Windows, які вирішують щоденні задачі без зайвого шуму та реклами.
-
-> 🌐 **Усі проєкти та дзеркала:** https://itch.io
-
+DEV > MIHEY | Independent Software Architect (C / Python / Android) & Motion Designer. 
+Built for myself first, shared for free (MIT). 
+Only freeware desktop tools & lightweight utilities here; core tech & commercial work stay off-market. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ---
 
 ### 🚀 Мої безкоштовні утиліти для Windows
 
-* ⚡ **[SvitloChecker Ukraine](/DEVMIHEY/SvitloChecker)** — компактний монітор графіків відключень світла (ДТЕК, YASNO, Обленерго) поверх панелі завдань. *Згадано у медіа на dev.ua:* https://dev.ua
-* 🚨 **[AlertChecker PC] https://devmihey.itch.io/ ** — легкий індикатор повітряних тривог України для робочого столу Windows.
-* ⌨️ **[LMA KeySwitch] https://devmihey.itch.io/ ** — розумний перемикач розкладки клавіатури з візуальними прапорцями.
+* ⚡ **SvitloChecker Ukraine** — компактний монітор графіків відключень світла (ДТЕК, YASNO, Обленерго) поверх панелі завдань.
+* 🚨 **AlertChecker PC** — легкий індикатор повітряних тривог України для робочого столу Windows.
+* ⌨️ **LMA KeySwitch** — розумний перемикач розкладки клавіатури з візуальними прапорцями.
 
 ---
 
-### ☕ Підтримати розробку
-Усі утиліти поширюються безкоштовно та надаються «як є» (as is). Якщо мій софт допомагає вам у роботі чи побуті, ви можете підтримати вихід нових оновлень:
-
-* 💳 **Банка на Монобанку:** [https://monobank.ua](https://send.monobank.ua/jar/9niCaBNkUm)
+### 🌐 Завантажити всі програми та дзеркала
+devmihey.itch.io
