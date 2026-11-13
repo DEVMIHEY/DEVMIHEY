@@ -13,4 +13,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ---
 
 ### 🌐 Завантажити всі програми та дзеркала
-https:\\devmihey.itch.io
+[devmihey.itch.io](devmihey.itch.io/
+)
