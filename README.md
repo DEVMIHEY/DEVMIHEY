@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привіт, я MIHEY 👋
 
-<!--
-**DEVMIHEY/DEVMIHEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Незалежний розробник софту (C / Python / Android) та моушн-дизайнер. Створюю легкі, швидкі та корисні десктопні утиліти для Windows, які вирішують щоденні задачі без зайвого шуму та реклами.
 
-Here are some ideas to get you started:
+> 🌐 **Усі проєкти та дзеркала:** <a href="https://itch.io">devmihey.itch.io</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Мої безкоштовні утиліти для Windows
+
+* ⚡ **<a href="https://github.com">SvitloChecker Ukraine</a>** — компактний монітор графіків відключень світла (ДТЕК, YASNO, Обленерго) поверх панелі завдань. *Згадано у медіа на <a href="https://dev.ua">dev.ua</a>.*
+* 🚨 **<a href="https://itch.io">AlertChecker PC</a>** — легкий індикатор повітряних тривог України для робочого столу Windows.
+* ⌨️ **<a href="https://itch.io">LMA KeySwitch</a>** — розумний перемикач розкладки клавіатури з візуальними прапорцями.
+
+---
+
+### ☕ Підтримати розробку
+Усі утиліти поширюються безкоштовно та надаються «як є» (as is). Якщо мій софт допомагає вам у роботі чи побуті, ви можете підтримати вихід нових оновлень:
+
+* 💳 **Банка на Монобанку:** <a href="https://monobank.ua">Поповнити банку</a>
