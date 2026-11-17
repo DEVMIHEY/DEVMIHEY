@@ -6,8 +6,6 @@
 
 ---
 
-### 🚀 Мої Windows-утиліти
-
 * ⚡ **[SvitloAlertChecker](https://devmihey.github.io/SvitloAlertChecker/)** `v5.2.1` — **Глобальне об'єднання AlertChecker + SvitloChecker**! Компактний Soft Bento віджет поверх усіх вікон: радар повітряних тривог по 136 районах (червоні/жовті загрози) + точні графіки відключень світла для всiх областей (ДТЕК, YASNO, Обленерго) для черг 1.1–6.2.
   
   * 🌐 **[Офіційний сайт](https://devmihey.github.io/SvitloAlertChecker/)** · 🎮 **[Завантажити на itch.io](https://devmihey.itch.io/svitloalertchecker)** · 💻 **[GitHub Репозиторій](https://github.com/DEVMIHEY/SvitloAlertChecker)**
